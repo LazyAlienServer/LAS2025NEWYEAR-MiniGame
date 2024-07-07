@@ -7,5 +7,6 @@
 | [灾难之星](https://www.minecraftzw.com/23175.html) | 2~20人 |
 | 赛车 | 1~20人 |
 | 善良的幻翼 | 1~24人 |
-| 密室杀手 | 1~24 |
-| Boom Doom | 2~10 |
+| 密室杀手 | 1~24人 |
+| Boom Doom | 2~10人 |
+| Zombies | 1~4人 |
