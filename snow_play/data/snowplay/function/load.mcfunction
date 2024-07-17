@@ -8,11 +8,3 @@ team modify B friendlyFire false
 team add DEBUG
 scoreboard objectives add list dummy
 team modify DEBUG prefix "§b[DEBUG]"
-
-scoreboard objectives add snowgun_use minecraft.used:minecraft.carrot_on_a_stick
-#雪球枪1 use检测
-
-scoreboard objectives add damage_storage dummy
-#耐久检测
-
-scoreboard objectives add snowgun_store dummy
