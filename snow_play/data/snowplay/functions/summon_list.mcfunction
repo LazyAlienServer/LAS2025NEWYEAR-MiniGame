@@ -1,0 +1,1 @@
+summon minecraft:armor_stand 8 2.1 28 {CustomName:'{"extra":[{"text":""},{"text":"list"}],"text":""}',Invulnerable:1}
