@@ -8,3 +8,4 @@ team modify B friendlyFire false
 team add DEBUG
 scoreboard objectives add list dummy
 team modify DEBUG prefix "§b[DEBUG]"
+

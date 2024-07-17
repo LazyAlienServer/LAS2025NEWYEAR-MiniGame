@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
-        "snowplay:tick"
+        "snowplay:tick",
+        "arms:tick"
     ]
 }
