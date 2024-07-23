@@ -3,8 +3,6 @@
     "values": [
         "snowplay:load",
         "arms:load",
-        "mot:t_main",
-        "mot:radom_main",
-        "mot:tag_api"
+        "mot:l_main"
     ]
 }
