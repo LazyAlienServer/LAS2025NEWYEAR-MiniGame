@@ -3,6 +3,7 @@
     "values": [
         "snowplay:load",
         "arms:load",
-        "mot:l_main"
+        "mot:l_main",
+        "detecthit:l_main"
     ]
 }
