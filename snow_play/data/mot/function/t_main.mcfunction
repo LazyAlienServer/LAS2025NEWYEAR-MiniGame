@@ -1,7 +1,7 @@
 #poz1
-execute as @a store result score @s x1 run data get entity @s Pos[0] 1000
-execute as @a store result score @s y1 run data get entity @s Pos[1] 1000
-execute as @a store result score @s z1 run data get entity @s Pos[2] 1000
+execute as @a store result score @s x1 run data get entity @s Pos[0] 10000
+execute as @a store result score @s y1 run data get entity @s Pos[1] 10000
+execute as @a store result score @s z1 run data get entity @s Pos[2] 10000
 
 #Poz2 (also the motion used)
 execute as @a at @s run summon minecraft:item_display ^ ^ ^5 {Tags:["motion"]}
